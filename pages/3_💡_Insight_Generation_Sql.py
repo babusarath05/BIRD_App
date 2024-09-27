@@ -11,7 +11,7 @@ import streamlit as st
 import sqlite3
 import warnings
 warnings.filterwarnings('ignore')
-from langchain.llms import CTransformers
+# from langchain.llms import CTransformers
 # from langchain.callbacks.manager import CallbackManager
 # from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler 
 
