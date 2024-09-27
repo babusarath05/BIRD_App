@@ -9,7 +9,7 @@
 3. Type "conda activate llm" and press enter
 4. Type the following and press enter:
 <ul>
-<li>pip install google-ai-generativelanguage==0.6.4</li>
+<li>pip install google-generativeai==0.8.2</li>
 <li>pip install pandas==2.1.4</li>
 <li>pip install openpyxl==3.0.10</li>
 <li>pip install streamlit==1.30.0</li>
